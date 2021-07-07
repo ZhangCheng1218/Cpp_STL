@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="源文件\01初始">
+      <UniqueIdentifier>{4cafc3fe-7fe2-41de-b6ba-b906bdb432bf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\02string">
+      <UniqueIdentifier>{e82f6712-70e5-49fa-9e12-b150a9cd7712}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\03vector">
+      <UniqueIdentifier>{eab739e9-fbac-4eb8-a3a6-93096539c6d1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\04deque">
+      <UniqueIdentifier>{ef5cdc5c-82ac-4158-b503-b020d7a3177a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\05案例">
+      <UniqueIdentifier>{97aa0f31-527d-4cf0-a7fc-d5f83e78a359}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\06stack">
+      <UniqueIdentifier>{3b20de6b-822c-46fe-8df6-2b4b9ec4cf1f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\07queue">
+      <UniqueIdentifier>{205d1883-e226-416f-b111-35969abad1c3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\08list">
+      <UniqueIdentifier>{b1064606-da87-4430-aceb-8abb0f35efb9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\NewFilter1">
+      <UniqueIdentifier>{031ea37e-47f8-4ca5-ad3c-7bb0114cea25}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="01vector存放数据及遍历.cpp">
+      <Filter>源文件\01初始</Filter>
+    </ClCompile>
+    <ClCompile Include="02vector存放自定义数据类型.cpp">
+      <Filter>源文件\01初始</Filter>
+    </ClCompile>
+    <ClCompile Include="03vector容器嵌套容器.cpp">
+      <Filter>源文件\01初始</Filter>
+    </ClCompile>
+    <ClCompile Include="01 string容器_构造函数.cpp">
+      <Filter>源文件\02string</Filter>
+    </ClCompile>
+    <ClCompile Include="02 string容器_赋值操作.cpp">
+      <Filter>源文件\02string</Filter>
+    </ClCompile>
+    <ClCompile Include="03 string容器_字符串拼接.cpp">
+      <Filter>源文件\02string</Filter>
+    </ClCompile>
+    <ClCompile Include="04 string容器_查找和替换.cpp">
+      <Filter>源文件\02string</Filter>
+    </ClCompile>
+    <ClCompile Include="05 string容器_字符串比较.cpp">
+      <Filter>源文件\02string</Filter>
+    </ClCompile>
+    <ClCompile Include="06 string容器_字符存取.cpp">
+      <Filter>源文件\02string</Filter>
+    </ClCompile>
+    <ClCompile Include="07 string容器_插入与删除.cpp">
+      <Filter>源文件\02string</Filter>
+    </ClCompile>
+    <ClCompile Include="08 string容器_子串.cpp">
+      <Filter>源文件\02string</Filter>
+    </ClCompile>
+    <ClCompile Include="01 vector容器_基础.cpp">
+      <Filter>源文件\03vector</Filter>
+    </ClCompile>
+    <ClCompile Include="02 vector容器_赋值操作.cpp">
+      <Filter>源文件\03vector</Filter>
+    </ClCompile>
+    <ClCompile Include="03 vector容器_容量和大小.cpp">
+      <Filter>源文件\03vector</Filter>
+    </ClCompile>
+    <ClCompile Include="04 vector容器_插入与删除.cpp">
+      <Filter>源文件\03vector</Filter>
+    </ClCompile>
+    <ClCompile Include="05 vector容器_数据存取.cpp">
+      <Filter>源文件\03vector</Filter>
+    </ClCompile>
+    <ClCompile Include="06 vector容器_互换容器.cpp">
+      <Filter>源文件\03vector</Filter>
+    </ClCompile>
+    <ClCompile Include="07 vector容器_预留空间.cpp">
+      <Filter>源文件\03vector</Filter>
+    </ClCompile>
+    <ClCompile Include="01 deque容器_基础.cpp">
+      <Filter>源文件\04deque</Filter>
+    </ClCompile>
+    <ClCompile Include="02 deque容器_赋值操作.cpp">
+      <Filter>源文件\04deque</Filter>
+    </ClCompile>
+    <ClCompile Include="03 deque容器_大小操作.cpp">
+      <Filter>源文件\04deque</Filter>
+    </ClCompile>
+    <ClCompile Include="04 deque容器_插入删除.cpp">
+      <Filter>源文件\04deque</Filter>
+    </ClCompile>
+    <ClCompile Include="05 deque容器_数据存取.cpp">
+      <Filter>源文件\04deque</Filter>
+    </ClCompile>
+    <ClCompile Include="06 deque容器_排序操作.cpp">
+      <Filter>源文件\04deque</Filter>
+    </ClCompile>
+    <ClCompile Include="01 STL案例_评委打分.cpp">
+      <Filter>源文件\05案例</Filter>
+    </ClCompile>
+    <ClCompile Include="01 stack容器_基础及接口.cpp">
+      <Filter>源文件\06stack</Filter>
+    </ClCompile>
+    <ClCompile Include="01 queue容器_基础及接口.cpp">
+      <Filter>源文件\07queue</Filter>
+    </ClCompile>
+    <ClCompile Include="01 list容器_基础及构造函数.cpp">
+      <Filter>源文件\08list</Filter>
+    </ClCompile>
+    <ClCompile Include="02 list容器_赋值和交换.cpp">
+      <Filter>源文件\08list</Filter>
+    </ClCompile>
+    <ClCompile Include="03 list容器_大小操作.cpp">
+      <Filter>源文件\08list</Filter>
+    </ClCompile>
+    <ClCompile Include="04 list容器_插入与删除.cpp">
+      <Filter>源文件\08list</Filter>
+    </ClCompile>
+    <ClCompile Include="05 list容器_数据存取.cpp">
+      <Filter>源文件\08list</Filter>
+    </ClCompile>
+    <ClCompile Include="06 list容器_反转和排序.cpp">
+      <Filter>源文件\08list</Filter>
+    </ClCompile>
+    <ClCompile Include="07 list容器_排序案例.cpp">
+      <Filter>源文件\08list</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
