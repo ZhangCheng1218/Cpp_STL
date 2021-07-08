@@ -37,8 +37,14 @@
     <Filter Include="源文件\08list">
       <UniqueIdentifier>{b1064606-da87-4430-aceb-8abb0f35efb9}</UniqueIdentifier>
     </Filter>
-    <Filter Include="源文件\NewFilter1">
+    <Filter Include="源文件\09set/multiset">
       <UniqueIdentifier>{031ea37e-47f8-4ca5-ad3c-7bb0114cea25}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\10map/multimap">
+      <UniqueIdentifier>{54ba8c3b-c494-430d-8a29-a8a4425e2c7c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\11函数对象">
+      <UniqueIdentifier>{0004e4f8-e2ae-4042-ad01-40fc73adc5ad}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -143,6 +149,51 @@
     </ClCompile>
     <ClCompile Include="07 list容器_排序案例.cpp">
       <Filter>源文件\08list</Filter>
+    </ClCompile>
+    <ClCompile Include="01 set容器_构造和赋值.cpp">
+      <Filter>源文件\09set/multiset</Filter>
+    </ClCompile>
+    <ClCompile Include="02 set容器_大小和交换.cpp">
+      <Filter>源文件\09set/multiset</Filter>
+    </ClCompile>
+    <ClCompile Include="03 set容器_插入和删除.cpp">
+      <Filter>源文件\09set/multiset</Filter>
+    </ClCompile>
+    <ClCompile Include="04 set容器_查找和统计.cpp">
+      <Filter>源文件\09set/multiset</Filter>
+    </ClCompile>
+    <ClCompile Include="05 set容器_set和multiset区别.cpp">
+      <Filter>源文件\09set/multiset</Filter>
+    </ClCompile>
+    <ClCompile Include="06 pair对组.cpp">
+      <Filter>源文件\09set/multiset</Filter>
+    </ClCompile>
+    <ClCompile Include="07 set容器_内置类型指定排序规则.cpp">
+      <Filter>源文件\09set/multiset</Filter>
+    </ClCompile>
+    <ClCompile Include="08 set容器_自定义数据类型指定排序规则.cpp">
+      <Filter>源文件\09set/multiset</Filter>
+    </ClCompile>
+    <ClCompile Include="01 map容器_构造和赋值.cpp">
+      <Filter>源文件\10map/multimap</Filter>
+    </ClCompile>
+    <ClCompile Include="02 map容器_大小和交换.cpp">
+      <Filter>源文件\10map/multimap</Filter>
+    </ClCompile>
+    <ClCompile Include="03 map容器_插入与删除.cpp">
+      <Filter>源文件\10map/multimap</Filter>
+    </ClCompile>
+    <ClCompile Include="04 map容器_查找与统计.cpp">
+      <Filter>源文件\10map/multimap</Filter>
+    </ClCompile>
+    <ClCompile Include="05 map容器_排序.cpp">
+      <Filter>源文件\10map/multimap</Filter>
+    </ClCompile>
+    <ClCompile Include="02 STL案例_员工分组.cpp">
+      <Filter>源文件\05案例</Filter>
+    </ClCompile>
+    <ClCompile Include="01 函数对象基础.cpp">
+      <Filter>源文件\11函数对象</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

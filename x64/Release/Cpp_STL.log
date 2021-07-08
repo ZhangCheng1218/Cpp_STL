@@ -1,7 +1,10 @@
-﻿  07 list容器_排序案例.cpp
+﻿  02 STL案例_员工分组.cpp
+C:\Users\Administrator\Documents\GitHub\Cpp_STL\02 STL案例_员工分组.cpp(54,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Documents\GitHub\Cpp_STL\02 STL案例_员工分组.cpp(62,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Documents\GitHub\Cpp_STL\02 STL案例_员工分组.cpp(70,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
   正在生成代码
-  2 of 156 functions ( 1.3%) were compiled, the rest were copied from previous compilation.
+  2 of 280 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
-    1 functions had inline decision re-evaluated but remain unchanged
+    0 functions had inline decision re-evaluated but remain unchanged
   已完成代码的生成
   Cpp_STL.vcxproj -> C:\Users\Administrator\Documents\GitHub\Cpp_STL\x64\Release\Cpp_STL.exe
